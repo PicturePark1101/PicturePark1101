@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1>Pickture Park</h1>
-  🌱Developer<br>
+  🌱<b>Developer</b><br>
   안녕하세요! 계속 발전하고 싶은 개발자 박서진입니다.
 
 
