@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-| name        | Content | Duration   | Role              |  
-|-------------|---------|------------|-------------------|
-| [Yourweather](https://github.com/yourweather) |    오늘 당신의 감정날씨는? - 오늘의 감정을 기록하는 일기 어플   | 2023.08 ~  | Android Developer |
+| name        | Content | Duration   | Role              | Tool & Stack  |
+|-------------|---------|------------|-------------------|----------|
+| [Yourweather](https://github.com/yourweather) |    오늘 당신의 감정날씨는? - 오늘의 감정을 기록하는 일기 어플   | 2023.08 ~  | Android Developer | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">|
 
 <!--
 **PicturePark1101/PicturePark1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
