@@ -2,7 +2,7 @@
 ## 악으로 깡으로
 
 ### ✨Picture Park
-🌱Developer
+🌱🌱Developer
 ***
 ### ✨Blog
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&color=red&link=https%3A%2F%2Fs-wls-1101.tistory.com%2F"><br>
