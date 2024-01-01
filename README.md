@@ -13,7 +13,7 @@
 
 | name        | Content | Duration   | Role              | Tool & Stack  |
 |-------------|-------------|-------------------------|-------------------|----------------------------------------------------------------|
-| [Yourweather](https://github.com/yourweather) |    오늘 당신의 감정날씨는? <br> 오늘의 감정을 기록하는 일기 어플   | 2023.08 ~  | Android Developer | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&color=%23779C7B"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white&color=%23195C61"> |
+| [Yourweather](https://github.com/yourweather) |    오늘 당신의 감정날씨는? <br> 오늘의 감정을 기록하는 일기 어플   | 2023.08 ~ 2023.12  | Android Developer | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&color=%23779C7B"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white&color=%23195C61"> |
 
 
 <!--
