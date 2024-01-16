@@ -2,9 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=a4b9e5&height=120&text=&animation=&fontColor=687582&fontSize=40" />
 </div>
 
+<div align="center">
+    
 # 🔨악으로 깡으로🔨
 🌱🌱Developer
-- 끊임없이 노력하는 개발자 박서진입니다.  
+- 끊임없이 노력하는 개발자 박서진입니다.
+  
+</div>
 
 ## 🛠️ Tech Stacks
 <div align="center">
