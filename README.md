@@ -31,6 +31,7 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seojin5565@gmail.com">
     </a>
 </div>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seojin5565)](https://velog.io/@seojin5565)
 
 ## 👯 Project
 
