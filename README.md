@@ -3,7 +3,7 @@
 </div>
 
 # ✨악으로 깡으로✨
-🌱🌱Develope
+🌱🌱Developer
 - 끊임없이 노력하는 개발자입니다.  
 
 ## 🛠️ Tech Stacks
