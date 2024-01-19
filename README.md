@@ -48,8 +48,8 @@
     <a href="https://velog.io/@seojin5565/posts">
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@seojin5565/posts">
     </a>
-    
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seojin5565&&tag=project)](https://github.com/seojin5565/velog-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seojin5565)](https://github.com/@seojin5565/velog-readme-stats)
 
 </div>
 
