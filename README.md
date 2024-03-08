@@ -4,7 +4,8 @@
 
 <div align="center">
     
-# 🔨악으로 깡으로🔨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&background=FFFFFF00&random=false&width=435&lines=%F0%9F%94%A8%EC%95%85%EC%9C%BC%EB%A1%9C+%EA%B9%A1%EC%9C%BC%EB%A1%9C%F0%9F%94%A8)](https://git.io/typing-svg)
+
 **안되면 되게 한다🔨**<br>
 🌱🌱**Developer**<br>
 
