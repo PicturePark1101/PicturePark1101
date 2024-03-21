@@ -3,18 +3,6 @@
 </div>
 
 <div align="center">
-    
-# 🔨악으로 깡으로🔨
-
-**안되면 되게 한다🔨**<br>
-🌱🌱**Developer**<br>
-
-항상 더 나은 방향에 대해 고민하는 학생 개발자 박서진입니다.<br>
-개발 뿐만 아니라 다양한 분야의 사람들과 네트워킹 하기를 희망합니다.<br>
-Spring과 JPA에 대해 공부 중입니다.<br>
-CI/CD에 대해 더 깊게 공부하고 싶습니다.<br>
-  
-</div>
 
 ## 🛠️ Tech Stacks
 <div align="center">
@@ -58,6 +46,4 @@ CI/CD에 대해 더 깊게 공부하고 싶습니다.<br>
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@seojin5565/posts">
     </a>
     
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seojin5565&slug=UMC-4th회고록)](https://github.com/seojin5565/velog-readme-stats)
-
 </div>
