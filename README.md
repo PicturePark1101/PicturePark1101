@@ -37,10 +37,10 @@
 ## Activity
 | Duration        | Name | Explanation |    Role               |  Record & Achievement  |
 |-------|-------------------|-----------------------------------------------------------|------------------|--------------------------------|
-|2023.03 ~ 2023.08| UMC | [대학생 연합 IT 동아리](https://www.makeus.in/umc) | Android/일반 부원 | 🏆 DDWU 스터디 우수자<br>📝[회고록](https://velog.io/@seojin5565/%ED%9A%8C%EA%B3%A0%EB%A1%9DUMC-%EB%8F%99%EB%8D%95%EC%97%AC%EB%8C%80-4%EA%B8%B0%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B01-%EC%A7%80%EC%9B%90%EB%B6%80%ED%84%B0-%EC%8A%A4%ED%84%B0%EB%94%94%EA%B9%8C%EC%A7%80)|
-|2023.09 ~ 2024.02| UMC | [대학생 연합 IT 동아리](https://www.makeus.in/umc) | Spring/운영진 |🏆 UMC 5TH 해커톤 3등 수상|
-|2024.03 ~ ing| UMC | [대학생 연합 IT 동아리](https://www.makeus.in/umc) | Spring/스터디장 ||
-|2024.03 ~ ing| SOPT | [대학생 IT 벤처 창업 동아리 ](https://www.sopt.org/) | Server/YB ||
+|2023.03 ~ 2023.08| UMC | [대학생 연합 IT 동아리](https://www.makeus.in/umc) | 4th Android/일반 부원 | 🏆 DDWU 스터디 우수자<br>📝[회고록](https://velog.io/@seojin5565/%ED%9A%8C%EA%B3%A0%EB%A1%9DUMC-%EB%8F%99%EB%8D%95%EC%97%AC%EB%8C%80-4%EA%B8%B0%EB%A5%BC-%EB%A7%88%EC%B9%98%EB%A9%B01-%EC%A7%80%EC%9B%90%EB%B6%80%ED%84%B0-%EC%8A%A4%ED%84%B0%EB%94%94%EA%B9%8C%EC%A7%80)|
+|2023.09 ~ 2024.02| UMC | [대학생 연합 IT 동아리](https://www.makeus.in/umc) | 5th Spring/운영진 |🏆 UMC 5TH 해커톤 3등 수상|
+|2024.03 ~ ing| UMC | [대학생 연합 IT 동아리](https://www.makeus.in/umc) | 6th Spring/스터디장 ||
+|2024.03 ~ ing| SOPT | [대학생 IT 벤처 창업 동아리 ](https://www.sopt.org/) | 34th Server/YB ||
 
 ## 👯 Project
 
