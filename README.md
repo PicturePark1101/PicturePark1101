@@ -32,7 +32,7 @@
 </div>
 
 ## Certificate
-SQLD
+**SQLD**
 
 ## Activity
 | Duration        | Name | Explanation |    Role               |  Record & Achievement  |
