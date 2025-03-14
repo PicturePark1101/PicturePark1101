@@ -1,9 +1,8 @@
 # Hi there 👋
 
-- IT 동아리에서 활발히 활동하며 Android 및 Server 개발을 경험해왔습니다.
-- 현재 Spring 기반의 Server 개발에 집중하고 있습니다.
-- 깨끗한 코드 및 유지보수 하기 쉬운 아키텍쳐에 관심이 많습니다.
-  
+안녕하세요. 신입 서버 개발자 박서진입니다. IT 동아리에서 활발히 활동하며 Android 및 Server 개발을 경험해왔습니다.
+<br>현재 Spring 기반의 Server 개발에 집중하고 있으며, 깨끗한 코드 및 유지보수 하기 쉬운 아키텍쳐에 관심이 많습니다.
+<br>좋은 협업자로써의 자세를 갖추고, "함께 일하고 싶은 개발자"가 되고 싶습니다.
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seojin5565@gmail.com)
@@ -31,18 +30,17 @@
 ## Activity
 
 **대학생 IT 참업 동아리 SOPT 34기 Server YB (2024.03 ~ 2024.08)**
-- 10주간의 Server 세미나
+- 10주간의 Server(Spring 기반) 세미나
 - 해커톤, 합동 프로젝트, 스터디 참여
-- 프로젝트 한끼족보 참여  (2024.07 ~ 2024.12)
-- 최종 데모데이 단독 대상 수상
+- 프로젝트 한끼족보 참여, 최종 데모데이 단독 대상 수상
 
 **대학생 IT 동아리 UMC 5기 Spring 파트 및 학교 운영진 (2023.09 ~ 2024.02)**
-- 10주간의 Server 스터디
+- 10주간의 Server(Spring 기반) 스터디
 - 해커톤 참여
-- 프로젝트 주인장 참여
-- 최종 데모데이 3등상 수상
+- 프로젝트 주인장 참여, 최종 데모데이 3등상 수상
  
 **대학생 IT 동아리 UMC 4기 Android 파트 (2023.03 ~ 2023.08)**
+- 10주간의 Server(Spring 기반) 스터디
 - 프로젝트 Yourweather 참여
 
 ## Project 
