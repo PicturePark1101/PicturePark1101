@@ -3,10 +3,6 @@
 안녕하세요. 신입 서버 개발자 박서진입니다. IT 동아리에서 활발히 활동하며 Android 및 Server 개발을 경험해왔습니다.
 <br>현재 Spring 기반의 Server 개발에 집중하고 있으며, 깨끗한 코드 및 유지보수 하기 쉬운 아키텍쳐에 관심이 많습니다.
 <br>좋은 협업자로써의 자세를 갖추고, "함께 일하고 싶은 개발자"가 되고 싶습니다.
-## Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seojin5565@gmail.com)
-[![Gmail](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=티스토리&logoColor=white)](https://picturepark.tistory.com/)
 
 ## Stack
 
@@ -66,3 +62,8 @@
 - 일기를 날씨를 통한 감정으로 기록하는 일기 어플리케이션
 - PM 1, Design 1, Server 3, Android 3
 - Kotlin 기반의 Android 파트원으로 참여
+
+## Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seojin5565@gmail.com)
+[![Gmail](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=티스토리&logoColor=white)](https://picturepark.tistory.com/)
