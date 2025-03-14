@@ -40,7 +40,7 @@
 - 프로젝트 주인장 참여, 최종 데모데이 3등상 수상
  
 **대학생 IT 동아리 UMC 4기 Android 파트 (2023.03 ~ 2023.08)**
-- 10주간의 Server(Spring 기반) 스터디
+- 10주간의 Kotlin 기반 Android 스터디
 - 프로젝트 Yourweather 참여
 
 ## Project 
