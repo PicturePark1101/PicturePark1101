@@ -47,7 +47,7 @@
 - 2024.10 정식 출시 [App Store](https://apps.apple.com/kr/app/%EC%A3%BC%EC%9D%B8%EC%9E%A5-%EB%B6%80%EB%8F%99%EC%82%B0-%EB%A7%A4%EB%AC%BC-%EA%B8%B0%EB%A1%9D/id6605941969)
 -  PM 1, Design 1, Server 4, iOS 3 -> PM 2, Design 2, Server 3, iOS 3
 
-**한끼족보 (2024.03 ~ 2024.08) [Github](https://github.com/Team-Hankki)**
+**한끼족보 (2024.07 ~ 2024.12) [Github](https://github.com/Team-Hankki)**
 - 대학가 주변 8000원 이하 식당 정보를 제공하는 어플리케이션
 - Spring 기반의 Server 파트원으로 참여
 - 2024.08 정식 출시 [App Store](https://apps.apple.com/kr/app/%ED%95%9C%EB%81%BC%EC%A1%B1%EB%B3%B4/id6557078344) |  [Google Store](https://play.google.com/store/apps/details?id=com.hankki.hankkijogbo&pcampaignid=web_share)
